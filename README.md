@@ -85,4 +85,5 @@ Version과 Release 관리
 
 Release note 만들기 
   - 프로젝트에 만든 버전과 릴리스 정보를 활용해서 고객에게 전달할 Release note를 만드는 법을 학습
+  - release note로 만드는 것보다 컨플루언스에서 페이지를 생성해서 해당 페이지에서 작성하여 연결하는 것이 사용하기 편리하다
 ```
