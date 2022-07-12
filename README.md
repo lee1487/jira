@@ -75,7 +75,7 @@
 제약이 존재하지 않는다. 
 ```
 
-PO(Project Owner)에게 유용한 기능 
+# PO(Project Owner)에게 유용한 기능 
 ```
 Version과 Release 관리 
   Version
